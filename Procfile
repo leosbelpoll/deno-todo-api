@@ -1,1 +1,1 @@
-web: deno run --port=${PORT} -A --unstable app.ts
+web: deno run -A --unstable app.ts
